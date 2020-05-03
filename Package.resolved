@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CRDT",
+        "repositoryURL": "https://github.com/specialfor/CRDT",
+        "state": {
+          "branch": "develop",
+          "revision": "4de46e02ce837543541a3a93209e4d9c96ca9ae5",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
